@@ -18,5 +18,6 @@ On my GitHub profile, I share some of my projects which include building a portf
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DeepLearning-PyTorchLightning-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
 ![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
-
+![](https://img.shields.io/badge/DataViz-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2CD4A7)
 
