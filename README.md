@@ -12,6 +12,11 @@ On my GitHub profile, I share some of my projects which include building a portf
 * [5 Steps to Develop Unique Data Science Project Ideas](https://towardsdatascience.com/5-steps-to-develop-unique-data-science-project-ideas-6c2b3a0014b)
 
 ## Skills and Tools:
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DeepLearning-PyTorchLightning-informational?style=flat&logo=pytorch&logoColor=white&color=2CD4A7)
+![](https://img.shields.io/badge/DataViz-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2CD4A7)
 
 
