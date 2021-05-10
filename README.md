@@ -2,7 +2,7 @@
 
 I'm Julia and I'm a self-taught data scientist. I'm especially interested in the intersection of data science :bar_chart: and sustainability :earth_africa:. 
 
-On my GitHub profile, I share some of my projects which include building a portfolio website :computer:, doing time series forecasting for bike sharing data :bike:, and completing the CS50 course by HarvardX :woman_student:. I also write :memo: for Towards Data Science and share ideas, tutorials, and deep dives on ML models.
+On my GitHub profile, I share some of my projects which include building a portfolio website :computer:, doing time series forecasting for bike sharing data :bike:, and completing the CS50 course by HarvardX :woman_student:. I also write :memo: for [Towards Data Science](https://towardsdatascience.com/) and share ideas, tutorials, and deep dives on ML models.
 
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianikulski&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/julianikulski/github-readme-stats)
 
