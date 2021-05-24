@@ -7,9 +7,9 @@ On my GitHub profile, I share some of my projects which include building a portf
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianikulski&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/julianikulski/github-readme-stats)
 
 ## Check out my latest blog posts:
+* [Toxicity in AI Text Generation](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f)
 * [36 Questions to Fall in Love With AI](https://towardsdatascience.com/36-questions-to-fall-in-love-with-ai-89037cc040ab)
 * [How to Use Transformer-based NLP Models](https://towardsdatascience.com/how-to-use-transformer-based-nlp-models-a42adbc292e5)
-* [Data Science for Sustainability](https://towardsdatascience.com/data-science-for-sustainability-b912d5fb5d24)
 
 ## Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
