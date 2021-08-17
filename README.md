@@ -7,9 +7,9 @@ On my GitHub profile, I share some of my projects which include building a [port
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianikulski&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/julianikulski/github-readme-stats)
 
 ## Check out my latest blog posts:
+* [How Company Directors Affect Corporate Sustainability](https://medium.com/@julia.nikulski/how-company-directors-affect-corporate-sustainability-9e8b457a2878)
 * [5 Tips to Boost Your Data Science Learning](https://towardsdatascience.com/5-tips-to-boost-your-data-science-learning-320a2284690)
 * [Toxicity in AI Text Generation](https://towardsdatascience.com/toxicity-in-ai-text-generation-9e9d9646e68f)
-* [36 Questions to Fall in Love With AI](https://towardsdatascience.com/36-questions-to-fall-in-love-with-ai-89037cc040ab)
 
 ## Skills and Tools:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2CD4A7)
